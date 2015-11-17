@@ -1988,7 +1988,7 @@
   :iso_639_3: amh
   :iso_639_2b: amh
   :iso_639_2t: amh
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Amis
@@ -15125,7 +15125,7 @@
   :iso_639_3: fil
   :iso_639_2b: fil
   :iso_639_2t: fil
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Finnish
@@ -18341,7 +18341,7 @@
   :iso_639_3: hau
   :iso_639_2b: hau
   :iso_639_2t: hau
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Havu
@@ -27469,7 +27469,7 @@
   :iso_639_3: lat
   :iso_639_2b: lat
   :iso_639_2t: lat
-  :common: true
+  :common: false
   :type: :ancient
   :scope: :individual
 - :name: Laba
@@ -42441,11 +42441,11 @@
   :type: :extinct
   :scope: :individual
 - :name: Dari
-  :iso_639_1: 
+  :iso_639_1: dr
   :iso_639_3: prs
   :iso_639_2b: 
   :iso_639_2t: 
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Phai
@@ -42869,7 +42869,7 @@
   :iso_639_3: pus
   :iso_639_2b: pus
   :iso_639_2t: pus
-  :common: false
+  :common: true
   :type: :living
   :scope: :macro_language
 - :name: Putoh
@@ -47205,7 +47205,7 @@
   :iso_639_3: som
   :iso_639_2b: som
   :iso_639_2t: som
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Songo
@@ -49893,7 +49893,7 @@
   :iso_639_3: tgl
   :iso_639_2b: tgl
   :iso_639_2t: tgl
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Tandaganon
