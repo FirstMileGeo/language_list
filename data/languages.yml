@@ -4140,7 +4140,7 @@
   :iso_639_3: bam
   :iso_639_2b: bam
   :iso_639_2t: bam
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Balinese
@@ -9204,7 +9204,7 @@
   :iso_639_3: cab
   :iso_639_2b: 
   :iso_639_2t: 
-  :common: false
+  :common: yes
   :type: :living
   :scope: :individual
 - :name: Chuj
@@ -13876,7 +13876,7 @@
   :iso_639_3: dyu
   :iso_639_2b: dyu
   :iso_639_2t: dyu
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Dyaabugay
@@ -15517,7 +15517,7 @@
   :iso_639_3: ful
   :iso_639_2b: ful
   :iso_639_2t: ful
-  :common: false
+  :common: true
   :type: :living
   :scope: :macro_language
 - :name: Fum
@@ -19797,7 +19797,7 @@
   :iso_639_3: ibo
   :iso_639_2b: ibo
   :iso_639_2t: ibo
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Ibuoro
@@ -23669,7 +23669,7 @@
   :iso_639_3: kie
   :iso_639_2b: 
   :iso_639_2t: 
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Eastern Parbate Kham
@@ -23717,7 +23717,7 @@
   :iso_639_3: kik
   :iso_639_2b: kik
   :iso_639_2t: kik
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Kariya
@@ -24349,7 +24349,7 @@
   :iso_639_3: kln
   :iso_639_2b: 
   :iso_639_2t: 
-  :common: false
+  :common: true
   :type: :living
   :scope: :macro_language
 - :name: Kapya
@@ -25877,7 +25877,7 @@
   :iso_639_3: ktb
   :iso_639_2b: 
   :iso_639_2t: 
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Kholok
@@ -27773,7 +27773,7 @@
   :iso_639_3: lcq
   :iso_639_2b: 
   :iso_639_2t: 
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Lisabata-Nuniali
@@ -52365,7 +52365,7 @@
   :iso_639_3: tuv
   :iso_639_2b: 
   :iso_639_2t: 
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Tuxináwa
@@ -56797,7 +56797,7 @@
   :iso_639_3: xem
   :iso_639_2b: 
   :iso_639_2t: 
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Epi-Olmec
@@ -59669,7 +59669,7 @@
   :iso_639_3: yor
   :iso_639_2b: yor
   :iso_639_2t: yor
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Yos
