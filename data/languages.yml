@@ -28445,7 +28445,7 @@
   :iso_639_3: lir
   :iso_639_2b: 
   :iso_639_2t: 
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Lisu
