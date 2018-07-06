@@ -12736,11 +12736,11 @@
   :type: :living
   :scope: :individual
 - :name: Zarma
-  :iso_639_1:
+  :iso_639_1: dj
   :iso_639_3: dje
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Djangun
@@ -22173,7 +22173,7 @@
   :iso_639_3: kau
   :iso_639_2b: kau
   :iso_639_2t: kau
-  :common: false
+  :common: true
   :type: :living
   :scope: :macro_language
 - :name: Katukína
