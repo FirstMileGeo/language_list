@@ -55145,11 +55145,11 @@
   :type: :living
   :scope: :individual
 - :name: Cameroon Pidgin
-  :iso_639_1:
+  :iso_639_1: we
   :iso_639_3: wes
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Perai
