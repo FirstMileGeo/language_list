@@ -59976,12 +59976,12 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: Yue Chinese
-  :iso_639_1:
+- :name: Cantonese
+  :iso_639_1: yu
   :iso_639_3: yue
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Havasupai-Walapai-Yavapai
@@ -60608,7 +60608,7 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: Chinese
+- :name: Mandarin
   :iso_639_1: zh
   :iso_639_3: zho
   :iso_639_2b: chi
