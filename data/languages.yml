@@ -34773,7 +34773,7 @@
   :iso_639_3: mya
   :iso_639_2b: bur
   :iso_639_2t: mya
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Mbay
@@ -46117,7 +46117,7 @@
   :iso_639_3: sin
   :iso_639_2b: sin
   :iso_639_2t: sin
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Sikkimese
